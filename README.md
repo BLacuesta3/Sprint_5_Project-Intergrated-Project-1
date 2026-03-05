@@ -2,7 +2,7 @@ Project Title: Sprint 5 Project/ Integrated Project 1
 
 Project Description: 
    In this integrated project, I have used Exploratory Data Analysis in order to help the online store, 'Ice'
-(hypothetical company) identify patterns that can determine whether the company's games can succeed or not.  This project
+identify patterns that can determine whether the company's games can succeed or not.  This project
 involved analyzing information about the company such as: user and expert reviews, genres, and platforms (ex: XBox, Playstation, etc,)
 in order to make conclusions about patterns or trends that can be determined through company sales information.  The dataset is based
 on past information that dates back to the year, 2016.  In order to examine the data for the 'Ice' company, I have used various charts 
