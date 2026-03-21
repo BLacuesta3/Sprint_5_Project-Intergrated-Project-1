@@ -1,4 +1,4 @@
-# 🎮 Sprint 5 Project — Integrated Project 1  
+# 🎮 Video Game Exploratory Data Analysis & Hypothesis Testing Project
 **Video Game Sales Analysis (EDA & Statistical Testing)**
 
 ## 📌 Project Overview  
